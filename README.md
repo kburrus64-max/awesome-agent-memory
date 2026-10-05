@@ -46,6 +46,7 @@ Contributions welcome. Please keep entries factual and free of marketing languag
 
 Memory servers exposed through the Model Context Protocol. Client support depends on the server transport and authentication method.
 
+- [Anansi Haven](https://github.com/kburrus64-max/anansi-haven) - MIT-licensed hosted MCP server (Streamable HTTP, also A2A and HTTP) with versioned key-value memory and a notes journal that persist across sessions, plus client-side encrypted storage; free tools work without an API key.
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - Local-first, AGPL-3.0 MCP server that stores agent memory as Obsidian-compatible Markdown files, building a knowledge graph agents can read and write.
 - [Firekeep](https://github.com/kapella-hub/FirekeepHQ) - BUSL-1.1 self-hosted MCP operating layer that shares durable knowledge, working state, cooperative coordination leases, and replay evidence across Claude Code, Codex, Kiro, and OpenCode.
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - MIT-licensed developer-alpha knowledge store with encrypted, append-only records and MCP retrieval through scoped, expiring grants.
